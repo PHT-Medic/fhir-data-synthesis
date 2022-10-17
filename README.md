@@ -9,4 +9,4 @@ How to create complete patient health records as FHIR resources with synthea [sy
    2. Add the path to the *path_to_fhir_resources* 
 5. Add the server-credentials (Server_address,username,password)
 6. If some error should occur, the count-value is always printed out. With *start_pos* attribute you can define the starting file, so you do not need to upload some resources multiple times  
-7. Run the *fhir_server_interaction*-script
+7. Run the *upload_fhir_resources*-script
